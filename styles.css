@@ -370,7 +370,7 @@ input, textarea, select {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url("https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1920&q=80&auto=format") center/cover no-repeat;
+    background: url("images/hero-bg.jpg") center/cover no-repeat;
     transform: scale(1.08);
     animation: heroZoom 20s ease-in-out infinite alternate;
 }
@@ -573,7 +573,7 @@ input, textarea, select {
     left: 0;
     right: 40px;
     bottom: 40px;
-    background: url("https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80&auto=format") center/cover no-repeat;
+    background: url("images/about-main.jpg") center/cover no-repeat;
     border-radius: 20px;
     box-shadow: var(--shadow-lg);
 }
@@ -584,7 +584,7 @@ input, textarea, select {
     right: 0;
     width: 200px;
     height: 200px;
-    background: url("https://images.unsplash.com/photo-1541123437800-1bb1317badc2?w=500&q=80&auto=format") center/cover no-repeat;
+    background: url("images/about-sub.jpg") center/cover no-repeat;
     border-radius: 16px;
     box-shadow: var(--shadow-md);
     border: 6px solid white;
@@ -861,22 +861,22 @@ input, textarea, select {
 }
 
 .case-img-1 {
-    background: url("https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80&auto=format") center/cover no-repeat;
+    background: url("images/case-1.jpg") center/cover no-repeat;
 }
 .case-img-2 {
-    background: url("https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80&auto=format") center/cover no-repeat;
+    background: url("images/case-2.jpg") center/cover no-repeat;
 }
 .case-img-3 {
-    background: url("https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&q=80&auto=format") center/cover no-repeat;
+    background: url("images/case-3.jpg") center/cover no-repeat;
 }
 .case-img-4 {
-    background: url("https://images.unsplash.com/photo-1616627561950-9f746e330187?w=600&q=80&auto=format") center/cover no-repeat;
+    background: url("images/case-4.jpg") center/cover no-repeat;
 }
 .case-img-5 {
-    background: url("https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80&auto=format") center/cover no-repeat;
+    background: url("images/case-5.jpg") center/cover no-repeat;
 }
 .case-img-6 {
-    background: url("https://images.unsplash.com/photo-1594620302200-9a762244a156?w=600&q=80&auto=format") center/cover no-repeat;
+    background: url("images/case-6.jpg") center/cover no-repeat;
 }
 
 .case-image > * {
@@ -1162,7 +1162,7 @@ input, textarea, select {
 .cta-bg {
     position: absolute;
     inset: 0;
-    background: url("https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1920&q=80&auto=format") center/cover no-repeat;
+    background: url("images/cta-bg.jpg") center/cover no-repeat;
     filter: brightness(0.4);
 }
 
