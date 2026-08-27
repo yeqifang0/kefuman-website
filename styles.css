@@ -370,7 +370,7 @@ input, textarea, select {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Luxury%20Italian%20style%20living%20room%20interior%20design%2C%20warm%20sunlight%20through%20blinds%2C%20elegant%20custom%20cabinets%2C%20cozy%20coffee%20table%20with%20books%2C%20high-end%20furniture%2C%20warm%20earth%20tones%2C%20architectural%20photography&image_size=landscape_16_9") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1920&q=80&auto=format") center/cover no-repeat;
     transform: scale(1.08);
     animation: heroZoom 20s ease-in-out infinite alternate;
 }
@@ -573,7 +573,7 @@ input, textarea, select {
     left: 0;
     right: 40px;
     bottom: 40px;
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Modern%20Chinese%20furniture%20factory%20interior%20with%20German%20HOMAG%20machinery%2C%20clean%20workshop%2C%20professional%20craftsmen%20working%20on%20custom%20cabinets%2C%20industrial%20photography%2C%20warm%20lighting&image_size=portrait_4_3") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80&auto=format") center/cover no-repeat;
     border-radius: 20px;
     box-shadow: var(--shadow-lg);
 }
@@ -584,7 +584,7 @@ input, textarea, select {
     right: 0;
     width: 200px;
     height: 200px;
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Close%20up%20of%20precision%20edge%20banding%20machine%20detail%2C%20craftsmanship%2C%20carpentry%20tools%2C%20wooden%20cabinet%20making%20process%2C%20macro%20photography&image_size=square") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1541123437800-1bb1317badc2?w=500&q=80&auto=format") center/cover no-repeat;
     border-radius: 16px;
     box-shadow: var(--shadow-md);
     border: 6px solid white;
@@ -861,22 +861,22 @@ input, textarea, select {
 }
 
 .case-img-1 {
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Elegant%20Italian%20style%20custom%20walk-in%20closet%20with%20glass%20doors%20and%20warm%20LED%20lighting%2C%20dark%20walnut%20wood%20finish%2C%20luxury%20interior%20design&image_size=portrait_4_3") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80&auto=format") center/cover no-repeat;
 }
 .case-img-2 {
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Luxury%20Italian%20kitchen%20cabinets%20with%20marble%20island%2C%20coffee%20brown%20wood%20texture%2C%20modern%20appliances%2C%20high%20end%20home%20interior&image_size=portrait_4_3") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80&auto=format") center/cover no-repeat;
 }
 .case-img-3 {
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Modern%20minimalist%20apartment%20renovation%2C%20custom%20built-in%20wall%20units%20with%20TV%20console%2C%20light%20wood%20tones%2C%20clean%20simple%20aesthetic&image_size=portrait_4_3") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&q=80&auto=format") center/cover no-repeat;
 }
 .case-img-4 {
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Luxury%20master%20bedroom%20walk-in%20wardrobe%20with%20glass%20cabinet%20doors%2C%20integrated%20LED%20strip%20lighting%2C%20elegant%20interior&image_size=portrait_4_3") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1616627561950-9f746e330187?w=600&q=80&auto=format") center/cover no-repeat;
 }
 .case-img-5 {
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Modern%20minimalist%20kitchen%20design%20with%20white%20cabinets%20and%20wood%20accents%2C%20island%20with%20bar%20stools%2C%20bright%20airy%20space&image_size=portrait_4_3") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80&auto=format") center/cover no-repeat;
 }
 .case-img-6 {
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Italian%20style%20home%20office%20study%20room%2C%20floor%20to%20ceiling%20bookshelves%2C%20warm%20wood%20desk%2C%20accent%20lighting%2C%20cozy%20working%20space&image_size=portrait_4_3") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1594620302200-9a762244a156?w=600&q=80&auto=format") center/cover no-repeat;
 }
 
 .case-image > * {
@@ -1162,7 +1162,7 @@ input, textarea, select {
 .cta-bg {
     position: absolute;
     inset: 0;
-    background: url("https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Warm%20cozy%20luxury%20living%20room%20interior%20with%20custom%20shelving%2C%20evening%20ambient%20lighting%2C%20soft%20furniture%2C%20home%20sweet%20home%20atmosphere&image_size=landscape_16_9") center/cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1920&q=80&auto=format") center/cover no-repeat;
     filter: brightness(0.4);
 }
 
